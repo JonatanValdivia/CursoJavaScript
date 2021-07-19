@@ -1,4 +1,4 @@
-//If
+//If simples
 var v1, v2;
 v1 = 32;
 v2 = 9;
