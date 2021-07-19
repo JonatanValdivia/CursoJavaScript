@@ -17,7 +17,7 @@ document.write(Math.floor(9.9))//Arredonda para baixo
 pularLinha()
 document.write(Math.round(1.4))//É um arredondamento que segue a segunda explicação: se for 1.4, arredonda para baixo, ou seja: 1. Se for 1.5, arredonda para 2.
 pularLinha()
-document.write(Math.pow(4, 3))//Eleva um número a outro número
+document.write(Math.pow(4, 3))//Eleva um número a outro númerogit
 pularLinha()
 document.write(Math.sqrt(169))//Retorna a raiz quadrada de um número que for determiando/passado.
 pularLinha()
