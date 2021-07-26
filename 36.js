@@ -1,4 +1,4 @@
-/*Base para movimentação de personagens em games (keyUp e keydown)*/
+/*Base para movimentação de personagens em games (keyUp, keydown e setInterval)*/
 const $ = (element) => document.querySelector(element) 
 
 //Precisaremos de tais informações:
