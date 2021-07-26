@@ -1,4 +1,4 @@
-//Recursividade -> recurso computacional.É uma função que chama a si própria diversar vezes
+//Recursividade: recurso computacional. Uma função que chama a si própria diversaa vezes.
 
 //Pode servir para substiruir rotinas de looping, a vantagem é que o código fica mais simples e mais facilidade do programa rodar
 
