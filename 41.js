@@ -16,7 +16,7 @@ const preCarregamento = () =>{
   var dowload = 1;
   for(var i = 0; i < 5; i++){
     imgs[i] = new Image();
-    imgs[i].src = "./JS/img/download"+dowload+".jfif";
+    imgs[i].src = "../img/download"+dowload+".jfif";
     dowload++;
     console.log(imgs[i].src);//Retorno
   }
