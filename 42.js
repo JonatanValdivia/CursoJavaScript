@@ -1,9 +1,5 @@
 //Modernizando o slider
 
-//Slider - Fazendo a 'máquina' de um
-
-//A primeira coisa recomendada ao trabalhar com slides, é: um pré-carregamento das imagens.
-
 const $ = (element) => document.querySelector(element)
 
 var imgs = [];
