@@ -1,4 +1,4 @@
-//Metodos para Strings: indexOf, lastIndexOf, localeCompare, slice, split, substr, toLowerCase, toUpperCase
+//Metodos para Strings: indexOf, lastIndexOf, localeCompare, slice, split, substr, toLowerCase, toUpperCase.
 /**IndexOf: retorna a posição de um caractere se especificar qual. Se determinada palavra não existir, então retorna -1 
  * 
  * lastIndexOf: diferente do indexOf, retorna a posição do último caractere pesquisado
